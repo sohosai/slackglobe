@@ -1,0 +1,20 @@
+{
+  "name": "slackglobe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:sohosai/slackglobe.git"
+  },
+  "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "object-assign": "^4.0.1",
+    "slack-client": "^1.4.1"
+  }
+}

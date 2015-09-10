@@ -8,11 +8,17 @@ Write `config.json`:
 
 ```json
 {
-  "label": {
+  "team1-label": {
+    "channel": "global",
+    "token": "token-token-token"
+  },
+  "team2-label": {
     "channel": "global",
     "token": "token-token-token"
   }
 }
 ```
+
+`label` may be named as you like.
 
 Run `coffee index.coffee`.
